@@ -8,7 +8,7 @@
 * Place SpectatorList.dll in your LabAPI plugins folder
 
 # Configuration
-* You can configure the text of the hints, making it special for you.
+* You can configure the text of the hints, making it customizable for you server.
 * Example of configuration in Spanish:
 
 ```
