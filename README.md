@@ -12,12 +12,12 @@
 * Example of configuration in Spanish:
 
 '
-A list of teams the hints should be hidden for
-hidden_for: []
-How often in seconds to refresh the hud
-refresh_rate: 2
-full_text: <color=#54B478><size=23><align=right>%display%</size><voffset=900> </voffset></align></color>
-player_display: <color=#54B478>-> %name%</color>
-no_spectators: <color=#54B478>Nadie te esta especteando.</color>
-spectators: "<color=#54B478>\U0001F465 Espectadores (%amount%)</color>"
+/ A list of teams the hints should be hidden for
+/ hidden_for: []
+/ How often in seconds to refresh the hud
+/ refresh_rate: 2
+/ full_text: <color=#54B478><size=23><align=right>%display%</size><voffset=900> </voffset></align></color>
+/ player_display: <color=#54B478>-> %name%</color>
+/ no_spectators: <color=#54B478>Nadie te esta especteando.</color>
+/ spectators: "<color=#54B478>\U0001F465 Espectadores (%amount%)</color>"
 '
