@@ -1,4 +1,4 @@
-# Spectator List
+# Spectator List ![img](https://img.shields.io/github/downloads/shank-scp/spectatorlist/total)
 * A plugin that shows players who is currently spectating them
 
 # Use latest version of LabAPI
